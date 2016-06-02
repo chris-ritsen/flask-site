@@ -1,5 +1,5 @@
 
-Holy Shit
+Wow
 ===
 It's rendering markdown *.md* files directly based on file extension.
 
